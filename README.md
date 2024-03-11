@@ -1,3 +1,2 @@
-Hola, developers, me presento. 
-# Soy AstroDev_ Un developer de lo más peculiar.
-**Suelo usar JavaScript en mis proyectos, como en un bot de Discord.**
+# [Hello!](https://github.com/drexxdv)
+**I am a simple developer of JavaScript, HTML, .BAT and CSS**
